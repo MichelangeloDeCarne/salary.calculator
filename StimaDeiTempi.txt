@@ -1,0 +1,2 @@
+Tempo Previsto per la back end:  35 ore
+Tempo Previsto per la front end: 25 ore
