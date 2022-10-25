@@ -157,3 +157,91 @@ align-items: center;
 color: #FF0000;
 
 }
+
+.linea2 {
+    position: absolute;
+width: 364px;
+height: 0px;
+left: 538px;
+top: 347px;
+
+border: 1px solid #535353;
+
+}
+
+h6{
+    position: absolute;
+width: 152.69px;
+height: 16px;
+left: 538px;
+top: 360px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+.testo3 {
+    position: absolute;
+width: 249.48px;
+height: 16px;
+left: 547.54px;
+top: 425px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+border: #FFFFFF;
+color: #A4A4A4;
+
+}
+
+.linea3{
+    position: absolute;
+    width: 364px;
+    height: 0px;
+    left: 538px;
+    top: 435px;
+    
+    border: 1px solid #535353;   
+}
+
+h7{
+    position: absolute;
+width: 137.69px;
+height: 13px;
+left: 538px;
+top: 450px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+display: flex;
+align-items: center;
+
+color: #FF0000;
+}
+
+.bottone{
+    position: absolute;
+    width: 364px;
+    height: 35px;
+    left: 538px;
+    top: 510px;
+    
+    background: #D0CFFF;
+}
