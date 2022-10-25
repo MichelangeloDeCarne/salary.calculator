@@ -79,3 +79,81 @@ align-items: center;
 color: #000000;
 
 }
+
+h3{
+    position: absolute;
+width: 137.69px;
+height: 13px;
+left: 538px;
+top: 260px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+display: flex;
+align-items: center;
+
+color: #FF0000;
+
+}
+
+h4{
+    position: absolute;
+width: 211.31px;
+height: 16px;
+left: 538px;
+top: 275px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+.testo2 {
+    position: absolute;
+width: 207.22px;
+height: 16px;
+left: 547.54px;
+top: 335px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+border: #FFFFFF;
+color: #A4A4A4;
+
+}
+
+h5{
+    position: absolute;
+width: 137.69px;
+height: 13px;
+left: 538px;
+top: 345px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+display: flex;
+align-items: center;
+
+color: #FF0000;
+
+}
