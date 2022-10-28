@@ -245,3 +245,18 @@ color: #FF0000;
     
     background: #D0CFFF;
 }
+.par{
+    position: absolute;
+    left: 538px;
+    top: 540px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
